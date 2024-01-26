@@ -1,2 +1,3 @@
 # random-rust-playground
-# random-rust-playground
+
+A place for random projects involving rust
